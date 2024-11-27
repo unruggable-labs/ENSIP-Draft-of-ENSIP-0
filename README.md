@@ -1,1 +1,2 @@
-# This repo is mainted in order to provide a place to contribute to the draft of ENSIP-0. 
+# ENSIP-0
+This repo is mainted in order to provide a place to contribute to the draft of ENSIP-0. 
